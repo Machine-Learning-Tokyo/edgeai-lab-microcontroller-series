@@ -1,1 +1,1 @@
-# edgeai-lab-tinyml-series
+# edgeai-lab-microcontroller-series
