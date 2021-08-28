@@ -46,7 +46,8 @@ Based on this, let us identify different blocks of the generalized EdgeAI Pipeli
   - Standard steps like Scaling and Normalization will be carried out on the data.
   - High Pass Filter will be applied on the data. Vibrational data which we are collecting is in higher range of frequencies. And also to eliminate the lower frequency noise.
   - Fast Fourier Transform will be applied to convert it to frequency domain.
-![image](https://user-images.githubusercontent.com/948498/131223067-0bfda47d-ba47-4671-a196-e82c0655cebd.png)
+![image](https://user-images.githubusercontent.com/948498/131224150-b33e4228-c2d8-4ff9-b754-847453c82448.png)
+
 
 - On Device Deployment and Inference
   - Once model is ready, create deployment bundle for Arduino and export the module. This can be imported into Arduino as library. 
