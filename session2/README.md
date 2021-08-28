@@ -39,10 +39,19 @@ Based on this, let us identify different blocks of the generalized EdgeAI Pipeli
 - Data Collection & Storage
   - Arduino Nano 33 BLE Sense will be attached tightly on the Fan. This will help the accelerometer to capture stable vibration signals.
   - The vibration signals will be sent via USB Serial to laptop or local pc and then a program will transfer the data to cloud (EdgeImpulse in our demo).
+![image](https://user-images.githubusercontent.com/948498/131223377-8e8fef52-63ad-4aa2-b278-f0c1beac0c28.png)
+
 - Data Processing and EDA on the vibration data.
+  - Raw Data collected from sensor is in Time Domain. So we will need to process it appropriately and convert it to Frequency Domain.
+  - Standard steps like Scaling and Normalization will be carried out on the data.
+  - High Pass Filter will be applied on the data. Vibrational data which we are collecting is in higher range of frequencies. And also to eliminate the lower frequency noise.
+  - Fast Fourier Transform will be applied to convert it to frequency domain.
+![image](https://user-images.githubusercontent.com/948498/131223067-0bfda47d-ba47-4671-a196-e82c0655cebd.png)
+
 - On Device Deployment and Inference
   - Once model is ready, create deployment bundle for Arduino and export the module. This can be imported into Arduino as library. 
   - For simple inference, we will use serial monitor and RGB Led to demonstrate how we can customize the code to adapt to any application.
+![image](https://user-images.githubusercontent.com/948498/131223316-f4806959-2171-44aa-9110-742a47814386.png)
 
 
 ## Steps to reproduce the project
