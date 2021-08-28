@@ -65,13 +65,13 @@ You can install libraries from the Library Manager. You can find that from Ardui
 
 
 ### Include the Edge Impulse Library
-Please download the [Prebuild Library](). We need to add this to our project.<br>
+Please download the [Prebuild Library](ei-fan_status_detection_using_vibration-arduino-1.0.4.zip). We need to add this to our project.<br>
 To add, select Sketch menu > Include Library > Add .ZIP Library ...
 If you get no error, then everything is fine.
 ![image](images/install_edgeimpulselibrary.png)
 
 ### Programming Arduino
-To run the example, open the file fan_status_detection.ino in Arduino. Since its .ino file, it will be automatically opened by Arduino IDE if it was installed successfully. If not, then you can open it through the standard operation (File > Open > [Path to fan_status_detection.ino]()).<br>
+To run the example, open the file fan_status_detection.ino in Arduino. Since its .ino file, it will be automatically opened by Arduino IDE if it was installed successfully. If not, then you can open it through the standard operation (File > Open > [Path to fan_status_detection.ino](fan_status_detection/fan_status_detection.ino)).<br>
 Click Verify button. It might take a while for compilation and verification process. You should get the following message on successful completion.
 ```
 Done Compiling
