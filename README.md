@@ -9,6 +9,9 @@ We are looking forward to active participation from the MLT community members to
 Our goal is to help the MLT Edge AI community to build their application by end of the series.
 
 Join us on **#edge_ai_lab** channel on [MLT Slack](https://machinelearningtokyo.slack.com)
+
+[Feedback Survey](https://forms.gle/811apJr1yesA9EdK9)
+
 # Sessions
 | Date | Topic | Description | Presentation Link | Video | 
 | ---- | ----- | ----------- | ----------------- | ----- |
@@ -26,4 +29,3 @@ Join us on **#edge_ai_lab** channel on [MLT Slack](https://machinelearningtokyo.
 # Code of Conduct
 MLT promotes an inclusive environment that values integrity, openness, and respect. https://github.com/Machine-Learning-Tokyo/MLT_starterkit
 
-[Feedback Survey](https://forms.gle/811apJr1yesA9EdK9)
