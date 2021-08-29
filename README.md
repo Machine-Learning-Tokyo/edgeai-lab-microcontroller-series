@@ -9,13 +9,16 @@ We are looking forward to active participation from the MLT community members to
 Our goal is to help the MLT Edge AI community to build their application by end of the series.
 
 Join us on **#edge_ai_lab** channel on [MLT Slack](https://machinelearningtokyo.slack.com)
+
+[Feedback Survey](https://forms.gle/811apJr1yesA9EdK9)
+
 # Sessions
 | Date | Topic | Description | Presentation Link | Video | 
 | ---- | ----- | ----------- | ----------------- | ----- |
-| 22 Aug 2021 | Overview of EdgeAI Applications | Brief introduction of different hardware and short talk about the pipelines in edgeAI applications | [Slides](session1/slides.pdf) | Coming Soon |
+| 22 Aug 2021 | Overview of EdgeAI Applications | Brief introduction of different hardware and short talk about the pipelines in edgeAI applications | [Slides](session1/slides.pdf) | [Video Recording](https://www.youtube.com/watch?v=S9Ejmi_3Vrw) |
 | 29 Aug 2021 | Motion Based Application using IMU | Walkthrough different blocks of pipeline for developing a motion based Edge AI Application. Type of data that can be extracted from IMU on Arduino Nano BLE Sense board. Whiteboard & Brainstorming | TBA | TBA |
 | 05 Sep 2021 | Audio Based Application using Microphone | Walkthrough different blocks of pipeline for developing a audio based Edge AI Application. Type of data that can be extracted from microphone on Arduino Nano BLE Sense board. Whiteboard & Brainstorming | TBA | TBA |
-| 29 Aug 2021 | Wrap-up Session | Summary and team presentations | TBA | TBA |
+| 11 Sep 2021 | Wrap-up Session | Summary and team presentations | TBA | TBA |
 
 # About Session Leads
 [Naveen Kumar](https://www.hackster.io/naveenbskumar) is a Senior Technical Scientist at RIKEN working on microbial DNA sequencing data analysis. He is a maker, tinkerer, embedded electronics hobbyist, and Edge AI enthusiast. In his free time, he enjoys watching movies, photography, and playing with microcontrollers.
@@ -26,4 +29,3 @@ Join us on **#edge_ai_lab** channel on [MLT Slack](https://machinelearningtokyo.
 # Code of Conduct
 MLT promotes an inclusive environment that values integrity, openness, and respect. https://github.com/Machine-Learning-Tokyo/MLT_starterkit
 
-[Feedback Survey](https://forms.gle/811apJr1yesA9EdK9)
