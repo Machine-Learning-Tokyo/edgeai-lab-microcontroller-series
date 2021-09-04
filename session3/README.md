@@ -1,2 +1,5 @@
-## Running Inferencing demo
+## Setup
 Please download and install Arduino IDE. After installation, open the Arduino IDE and install the board package for Arduino Nano 33 BLE Sense by going to Tools > Board > Boards Manager. Search the board package "Arduino Mbed OS Nano boards" and install it. After board package installation is completed, choose the Arduino Nano 33 BLE from Tools > Board > Arduino Mbed OS Nano Boards menu and select serial port of the connected development boards from Tools > Port menu. Also, we need to install RingBuffer library using the Library Manager (Tool > Manage Libraries...).
+
+## Running Inferening demo
+To run the inferencing sketch, download snoring_detection_inferencing.zip and unzip it. Open the Arduino sketch snoring_detection_inferencing/examples/tflite_micro_snoring_detection/tflite_micro_snoring_detection.ino in the Arduino IDE. Compile and upload the firmware to the connected development board. We can see the inferencing output using the Tools > Serial Monitor with baud rate 115200 bps.
