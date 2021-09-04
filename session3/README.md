@@ -1,2 +1,2 @@
-## Inferencing demo
+## Running Inferencing demo
 Please download and install Arduino IDE. After installation, open the Arduino IDE and install the board package for Arduino Nano 33 BLE Sense by going to Tools > Board > Boards Manager. Search the board package "Arduino Mbed OS Nano boards" and install it. After board package installation is completed, choose the Arduino Nano 33 BLE from Tools > Board > Arduino Mbed OS Nano Boards menu and select serial port of the connected development boards from Tools > Port menu. Also, we need to install RingBuffer library using the Library Manager (Tool > Manage Libraries...).
