@@ -29,7 +29,8 @@ Based on this, let us identify different blocks of the generalized EdgeAI Pipeli
   - Anotating the snore frames in raw audio data and data extraction for training.
 
 - On Device Deployment and Inference
-  -  
+  - The code uses multithreading. One thread will sample the audio stream and another frame will perform DSP on the data window. A motor vibrator is connected to display the results. It will vibrate when snoring activity is detected.
+  - The results are also send via serial port, so you can check the results using Serial Plotter.
 
 ## Steps to reproduce the project
 ### Install Arduino IDE 1.8.14+ 
