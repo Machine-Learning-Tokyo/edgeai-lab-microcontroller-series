@@ -18,7 +18,7 @@ Join us on **#edge_ai_lab** channel on [MLT Slack](https://machinelearningtokyo.
 | 22 Aug 2021 | [Overview of EdgeAI Applications](session1/README.md) | Brief introduction of different hardware and short talk about the pipelines in edgeAI applications | [Slides](session1/slides.pdf) | [Video Recording](https://www.youtube.com/watch?v=S9Ejmi_3Vrw) |
 | 29 Aug 2021 | [Motion Based Application using IMU](session2/README.md) | Walkthrough different blocks of pipeline for developing a motion based Edge AI Application. Type of data that can be extracted from IMU on Arduino Nano BLE Sense board. Whiteboard & Brainstorming | [Slides](session2/slides.pdf) | [Video Recording](https://www.youtube.com/watch?v=jIzV5BJcH6Y) |
 | 05 Sep 2021 | [Audio Based Application using Microphone](session3/README.md) | Walkthrough different blocks of pipeline for developing a audio based Edge AI Application. Type of data that can be extracted from microphone on Arduino Nano BLE Sense board. Whiteboard & Brainstorming | [Slides](session3/slides.pdf) | [Video Recording](https://www.youtube.com/watch?v=Jxa_kI7ix5M) |
-| 19 Sep 2021 | Wrap-up Session | Summary and team presentations | [Video Recording](https://www.youtube.com/watch?v=3uhpQJLgLRo) |  |
+| 19 Sep 2021 | Wrap-up Session | Summary and team presentations |  | [Video Recording](https://www.youtube.com/watch?v=3uhpQJLgLRo) |
 
 # About Session Leads
 [Naveen Kumar](https://www.hackster.io/naveenbskumar) is a Senior Technical Scientist at RIKEN working on microbial DNA sequencing data analysis. He is a maker, tinkerer, embedded electronics hobbyist, and Edge AI enthusiast. In his free time, he enjoys watching movies, photography, and playing with microcontrollers.
